@@ -16,6 +16,8 @@ https://blog.csdn.net/muyao987/article/details/126144610
 
 https://mp.weixin.qq.com/s/15r6TlkT4FeN_SBD2IifOw
 
+[基于gradio快速部署自己的深度学习模型（目标检测、图像分类、语义分割模型）
+](https://blog.csdn.net/a486259/article/details/135219068)
 
 ## ref
 https://github.com/yuweihao/MambaOut/blob/main/gradio_demo/app.py
